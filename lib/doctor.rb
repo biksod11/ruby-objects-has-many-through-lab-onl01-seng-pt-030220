@@ -25,4 +25,3 @@ class Doctor
     appointments.map(&:patient)
   end
 end
-z
